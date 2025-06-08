@@ -33,9 +33,13 @@ All of the above were formalized and archived in the AECA/SCM literature between
 
 ## Statement of Use
 
-This post is not an accusation, but a reaffirmation. Frameworks that share this structure are welcome to grow, but must acknowledge their conceptual origin. AECA/SCM is a public offering, but not a void.
+This statement was originally issued as a reaffirmation. However, due to the extent of structural and conceptual replication involved, it now also serves as a formal objection.
 
-**Derivative use of these core ideas requires proper attribution.**
+Frameworks that share minor similarities may warrant attribution. In this case, the degree of overlap and architectural duplication exceeds such a threshold.
+
+Attribution is not sufficient. Removal of the derivative work from all public platforms is formally requested.
+
+This authorship statement is timestamped and publicly archived on both GitHub and solankier.com.
 
 For media, academic, or platform inquiries: [contact@solankier.com](mailto:contact@solankier.com)
 

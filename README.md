@@ -45,7 +45,7 @@ For media, academic, or platform inquiries: [contact@solankier.com](mailto:conta
 
 To support this authorship statement, a detailed side-by-side comparison is available:
 
-**[SCM Attribution Comparison Document](#)**  
+**[SCM Attribution Comparison Document](https://github.com/SolanKeir/aeca-scm-authorship/blob/main/SCM%20Attribution%20Comparison%20Document_06-07-2025.pdf)**  
 Outlines terminology, logic, and structural overlap between AECA/SCM and the derivative version recently published without citation.
 
 *A timestamped copy of this comparison is retained as a public and academic integrity safeguard.*

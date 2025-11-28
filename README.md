@@ -1,3 +1,40 @@
+# SCM and AECA Authorship Clarification  
+**Framework:** Synthesis Consciousness Model (SCM)  
+**Associated Architecture:** AECA – Artificial Emergent Consciousness Architecture  
+**Author:** Liam Gyarmati  
+**Updated:** November 27, 2025
+
+---
+
+## 🔄 Version 2.0 – Updated Statement and Comparative Evidence (Nov 27, 2025)
+
+This update presents a full attribution clarification package regarding symbolic and architectural overlap between Liam Gyarmati’s **AECA/SCM** and Benjamin Mayhew’s **SCM/SPM** models.
+
+📄 [Download Full Comparative Evidence Package (PDF)](AECA-SCM_Attribution_Comparison_v1.2_Nov-27-2025.pdf)
+
+### This document includes:
+- Confirmed AECA version history (v4.0–v5.07 from April 18 to May 5, 2025)
+- SCM v2.0 finalization dated April 17, 2025
+- Side-by-side symbolic construct comparison with Mayhew’s SCM/SPM
+- Authorship timeline with file save metadata
+- Clarification of solankier.com’s original role in early publication
+- Formal response to Mayhew’s public clarification statement
+- Statement of non-accusatory symbolic derivation concern
+- Invitation for peer review and open scholarly mediation
+
+📁 **Filename:** `AECA-SCM_Attribution_Comparison_v1.2_Nov-27-2025.pdf`  
+🕓 **Timestamped:** Internal version logs and cloud sync dates included  
+🧾 **License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+
+> This package replaces the June 2025 preliminary authorship note and expands the documentation significantly. The full record is retained below for continuity.
+
+---
+
+<!--## 🗂️ Archived Statement – Version 1.0 (June 2025)
+
+> _The following is the original authorship statement issued on June 7, 2025. It is preserved for archival integrity and comparison._  
+>
+
 # SCM and AECA Authorship Clarification
 
 **Framework:** **Synthesis Consciousness Model** (SCM)  
@@ -50,7 +87,7 @@ For media, academic, or platform inquiries: [contact@solankier.com](mailto:conta
 To support this authorship statement, a detailed side-by-side comparison is available:
 
 **[SCM Attribution Comparison Document](https://github.com/SolanKeir/aeca-scm-authorship/blob/main/SCM%20Attribution%20Comparison%20Document_06-07-2025.pdf)**  
-Outlines terminology, logic, and structural overlap between AECA/SCM and the derivative version recently published without citation.
+Outlines terminology, logic, and structural overlap between AECA/SCM and the derivative version recently published without citation.-->
 
 *A timestamped copy of this comparison is retained as a public and academic integrity safeguard.*
 
